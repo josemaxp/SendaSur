@@ -19,7 +19,7 @@ import josemanuel.marin.sendasur.controller.FavoritesAdapter;
 import josemanuel.marin.sendasur.controller.SendaViewModel;
 import josemanuel.marin.sendasur.model.Senda;
 
-public class TabFavoritesFragment extends Fragment {
+public class TabFavoritesFragment extends Fragment{
     RecyclerView recyclerView;
     RecyclerView.LayoutManager layoutManager;
     private FavoritesAdapter mAdapter;
@@ -62,6 +62,8 @@ public class TabFavoritesFragment extends Fragment {
 
                         sw.deleteSenda(senda);
                     }
+
+
                 });
 
         helper.attachToRecyclerView(recyclerView);
