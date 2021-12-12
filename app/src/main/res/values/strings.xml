@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">SendaSur</string>
+    <string name="map">Mapa</string>
+    <string name="fav">Favoritos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="name">Nombre</string>
+    <string name="favbutton">Añadir a favoritos</string>
+    <string name="time">Tiempo de ida: </string>
+    <string name="title">Nombre </string>
+    <string name="longitude">Longitud: </string>
+    <string name="Dificulty">Dificultad: </string>
+</resources>

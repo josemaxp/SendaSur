@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="map">Map</string>
+    <string name="fav">Favourites</string>
+    <string name="name">Name</string>
+    <string name="favbutton">Add to favourites</string>
+    <string name="time">"Time to go: "</string>
+    <string name="title">Name</string>
+    <string name="longitude">"Longitude: "</string>
+    <string name="Dificulty">"Dificulty: "</string>
+</resources>
